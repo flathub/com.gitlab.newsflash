@@ -47,8 +47,8 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "url" : "https://source.puri.sm/Librem5/libhandy",
-                    "tag": "v0.0.13"
+                    "url" : "https://gitlab.gnome.org/GNOME/libhandy",
+                    "tag": "1.0.2"
                 }
             ]
         },
@@ -58,8 +58,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://gitlab.com/news-flash/news_flash_gtk/-/jobs/686577461/artifacts/raw/_build/meson-dist/newsflash-1.0.5.tar.xz",
-                    "sha256": "7f01d617803aac8749ed7169b7e3b6c988b7a283ef189679a4aa331d2c6e3066"
+                    "url" : "https://gitlab.com/news-flash/news_flash_gtk/-/jobs/902329312/artifacts/raw/_build/meson-dist/newsflash-1.1.0.tar.xz",
+                    "sha256": "e84ed0d91dbbe398f557eccc58125a9e17e86abaa26a2beea1b4c9f235494f0c"
                 }
             ]
         }
