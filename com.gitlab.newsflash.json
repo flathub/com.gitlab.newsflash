@@ -58,8 +58,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://gitlab.com/news-flash/news_flash_gtk/-/jobs/1028428497/artifacts/raw/_build/meson-dist/newsflash-1.2.2.tar.xz",
-                    "sha256": "e58e7d7eec2384c374d8efdc34eb9d3c635a11ac2dfd5f6fb93ff86f6b0803d9"
+                    "url" : "https://gitlab.com/news-flash/news_flash_gtk/-/jobs/1029136022/artifacts/raw/_build/meson-dist/newsflash-1.2.3.tar.xz",
+                    "sha256": "ef9fa0ba102179c4b8d911f0e12d0ef6c79a093d292ea725eac8e6d5c000c65c"
                 }
             ]
         }
