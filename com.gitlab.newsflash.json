@@ -25,7 +25,8 @@
             "FEEDLY_CLIENT_SECRET" : "FE012EGICU4ZOBDRBEOVAJA1JZYH",
             "PASSWORD_CRYPT_KEY" : "@PASSWORD_CRYPT_KEY@",
             "MERCURY_PARSER_USER" : "newsflash",
-            "MERCURY_PARSER_KEY" : "ypsSXCLhJngks9qGUAqShd8JjRaZ824wT3e"
+            "MERCURY_PARSER_KEY" : "ypsSXCLhJngks9qGUAqShd8JjRaZ824wT3e",
+            "RUSTC_BOOTSTRAP": "1"
         }
     },
     "modules" : [
