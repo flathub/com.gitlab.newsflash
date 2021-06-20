@@ -23,10 +23,7 @@
             "CARGO_HOME" : "/run/build/newsflash/cargo",
             "FEEDLY_CLIENT_ID" : "boutroue",
             "FEEDLY_CLIENT_SECRET" : "FE012EGICU4ZOBDRBEOVAJA1JZYH",
-            "PASSWORD_CRYPT_KEY" : "@PASSWORD_CRYPT_KEY@",
-            "MERCURY_PARSER_USER" : "newsflash",
-            "MERCURY_PARSER_KEY" : "ypsSXCLhJngks9qGUAqShd8JjRaZ824wT3e",
-            "RUSTC_BOOTSTRAP": "1"
+            "PASSWORD_CRYPT_KEY" : "@PASSWORD_CRYPT_KEY@"
         }
     },
     "modules" : [
@@ -36,8 +33,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://gitlab.com/news-flash/news_flash_gtk/-/jobs/1259049257/artifacts/raw/_build/meson-dist/newsflash-1.4.1.tar.xz",
-                    "sha256": "46579d9cfc763e8aaddf7ccf3a05adf9991c790973c7c2cd5e22841bc90359c0"
+                    "url" : "https://gitlab.com/news-flash/news_flash_gtk/-/jobs/1361569039/artifacts/raw/_build/meson-dist/newsflash-1.4.2.tar.xz",
+                    "sha256": "2e418f48008782ffe26f9eab410092bab779683393605a48b5d5304b63a5d916"
                 }
             ]
         }
