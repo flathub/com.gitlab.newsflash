@@ -21,8 +21,6 @@
         "append-path" : "/usr/lib/sdk/rust-stable/bin",
         "env" : {
             "CARGO_HOME" : "/run/build/newsflash/cargo",
-            "FEEDLY_CLIENT_ID" : "boutroue",
-            "FEEDLY_CLIENT_SECRET" : "FE012EGICU4ZOBDRBEOVAJA1JZYH",
             "PASSWORD_CRYPT_KEY" : "@PASSWORD_CRYPT_KEY@"
         }
     },
