@@ -1,7 +1,7 @@
 {
     "app-id" : "com.gitlab.newsflash",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "42",
+    "runtime-version" : "43",
     "sdk" : "org.gnome.Sdk",
     "sdk-extensions" : [
         "org.freedesktop.Sdk.Extension.rust-stable"
@@ -31,8 +31,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://gitlab.com/news-flash/news_flash_gtk/-/jobs/1754139454/artifacts/raw/_build/meson-dist/newsflash-1.5.1.tar.xz",
-                    "sha256": "f4850ff675168f856c604517b21ef4b033f23409d01239e3147e549157791899"
+                    "url" : "https://gitlab.com/news-flash/news_flash_gtk/-/raw/stable/dist/newsflash-2.0.0.tar.xz",
+                    "sha256": "a2d7bed681fd562f4a4d8784387e32219042228cf569045656260810dec18e26"
                 }
             ]
         }
