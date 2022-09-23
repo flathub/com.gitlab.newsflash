@@ -32,7 +32,7 @@
                 {
                     "type" : "archive",
                     "url" : "https://gitlab.com/news-flash/news_flash_gtk/-/raw/stable/dist/newsflash-2.0.1.tar.xz",
-                    "sha256": "ba4f7b3f6d0a9ddf409c73483c714a4c999a69e542bd2ad25d88ca48cc5e386e"
+                    "sha256": "52d362b7105ea97f970fd070e35dd72dc311b849d2e086c068431cd1e554e9ee"
                 }
             ]
         }
