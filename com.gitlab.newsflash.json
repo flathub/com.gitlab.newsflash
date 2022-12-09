@@ -30,8 +30,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://gitlab.com/news-flash/news_flash_gtk/-/raw/stable/dist/newsflash-2.2.2.tar.xz",
-                    "sha256": "28b16c11383e817e11625fb212d335f7585c692f2a1e09e02c6931887ed7b35c"
+                    "url" : "https://gitlab.com/news-flash/news_flash_gtk/-/raw/v.2.2.3/dist/newsflash-2.2.3.tar.xz",
+                    "sha256": "0f0eee1863e0d74f7f3794853f0e6c05d4cd5d7b40eb55390439d8dfa06fc8e7"
                 }
             ]
         }
